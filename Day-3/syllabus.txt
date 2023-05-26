@@ -1,0 +1,22 @@
+  १२ जेठ २०८०, शुक्रवार
+
+
+                                                        Day 3: Arrays and Objects
+
+Introduction to Arrays
+Creating arrays
+Accessing array elements
+Modifying array elements
+Array length
+Array methods (push, pop, shift, unshift, splice, etc.)
+Looping through arrays (for loop, forEach method)
+Introduction to Objects
+Creating objects
+Object properties and values
+Accessing and modifying object properties
+Object methods
+Object literals vs. object constructors
+JSON (JavaScript Object Notation)
+Overview of JSON format
+Converting JavaScript objects to JSON
+Parsing JSON data
