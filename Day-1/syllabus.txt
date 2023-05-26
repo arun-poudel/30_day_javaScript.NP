@@ -1,0 +1,8 @@
+  १२ जेठ २०८०, शुक्रवार
+
+
+                                                        Day 3: Arrays and Objects
+
+Introduction to JavaScript
+- Basics of JavaScript: variables, data types, operators, and control flow
+- Writing your first JavaScript code
