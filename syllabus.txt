@@ -1,0 +1,196 @@
+                                                 १२ जेठ २०८०, शुक्रवार
+
+
+Day 1: Introduction to JavaScript
+- Basics of JavaScript: variables, data types, operators, and control flow
+- Writing your first JavaScript code
+
+Day 2: Functions and Scope
+- Creating and calling functions
+- Understanding scope and variable hoisting
+- Using function expressions and arrow functions
+
+Day 3: Arrays and Objects
+- Working with arrays: creating, accessing, and modifying elements
+- Introduction to objects: properties and methods
+- JSON (JavaScript Object Notation)
+
+Day 4: DOM Manipulation
+- Introduction to the Document Object Model (DOM)
+- Selecting and modifying HTML elements with JavaScript
+- Handling events and event listeners
+
+Day 5: Control Flow and Error Handling
+- Loops: for, while, and do-while
+- Conditional statements: if-else, switch
+- Error handling with try-catch
+
+Day 6: Functional Programming
+- Introduction to functional programming concepts
+- Working with higher-order functions: map, filter, reduce
+- Immutable data and pure functions
+
+Day 7: Asynchronous JavaScript
+- Understanding asynchronous programming
+- Working with callbacks
+- Introduction to Promises
+
+Day 8: Promises and Async/Await
+- Advanced usage of Promises: chaining and error handling
+- Introduction to async/await for asynchronous programming
+- Combining async functions and Promises
+
+Day 9: Modules and ES6 Features
+- Organizing code with modules
+- Importing and exporting modules
+- ES6 features: let, const, arrow functions, template literals, and more
+
+Day 10: Regular Expressions
+- Introduction to regular expressions
+- Using regular expressions for pattern matching and validation
+
+Day 11: Error Handling and Debugging
+- Advanced error handling techniques
+- Debugging JavaScript code with browser tools
+- Console logging and error messages
+
+Day 12: Object-Oriented Programming (OOP)
+- Introduction to OOP principles in JavaScript
+- Creating and using classes and objects
+- Inheritance and polymorphism
+
+Day 13: Prototypes and Prototypal Inheritance
+- Understanding prototypes and prototypal inheritance
+- Working with prototype chains
+- Modifying prototypes and adding methods
+
+Day 14: Fetch API and AJAX
+- Making HTTP requests with Fetch API
+- Handling responses and using JSON data
+- AJAX (Asynchronous JavaScript and XML) basics
+
+Day 15: Web Storage
+- Introduction to Web Storage
+- Working with localStorage and sessionStorage
+- Storing and retrieving data in the browser
+
+Day 16: Introduction to Front-End Frameworks
+- Overview of popular front-end frameworks (e.g., React, Vue, Angular)
+- Understanding the benefits and use cases of using a framework
+
+Day 17: Introduction to Back-End Development
+- Overview of back-end technologies (e.g., Node.js, Express)
+- Communicating with the server-side using APIs
+
+Day 18: Security and Authentication
+- Common security vulnerabilities in web applications
+- Implementing user authentication and authorization
+
+Day 19: Performance Optimization
+- Techniques for optimizing JavaScript code
+- Improving website loading speed and performance
+
+Day 20: Testing and Debugging
+- Writing unit tests for JavaScript code
+- Using testing frameworks (e.g., Jest)
+- Debugging techniques for finding and fixing bugs
+
+Day 21: Advanced DOM Manipulation
+- Manipulating the DOM using advanced techniques
+- Creating dynamic UI components
+
+Day 22: Design Patterns
+- Overview of common design patterns in JavaScript
+- Implementing design patterns for better code organization
+
+Day 23: Reactive Programming
+- Introduction to reactive programming concepts
+
+
+Day 24: Introduction to Reactive Programming
+- Understanding reactive programming principles
+- Using reactive libraries/frameworks (e.g., RxJS)
+
+Day 25: State Management
+- Managing application state efficiently
+- Implementing state management patterns (e.g., Redux, Vuex)
+
+Day 26: Data Manipulation and Transformation
+- Working with data structures and algorithms
+- Transforming and manipulating data efficiently
+
+Day 27: Performance Monitoring and Optimization
+- Monitoring and analyzing JavaScript performance
+- Optimizing code for better performance
+
+Day 28: Deployment and Continuous Integration
+- Preparing JavaScript applications for deployment
+- Setting up continuous integration and deployment pipelines
+
+Day 29: Advanced Topics in JavaScript
+- Generators and iterators
+- Proxies and Reflect API
+- Working with web workers for concurrent programming
+
+Day 30: Project Day
+- Apply your knowledge to build a complex ecommerce website
+- Implement features such as product listing, cart functionality, user authentication, and payment integration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
